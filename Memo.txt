@@ -1,0 +1,7 @@
+簡単な Apple Watch アプリを初めて作ってみる
+Apple Watch アプリプログラミング
+http://ez-net.jp/article/8C/ylktGR5J/5ZZKjSNrNQac/
+
+Apple Watch アプリから親アプリの情報を更新する。
+Apple Watch アプリプログラミング
+http://ez-net.jp/article/BF/1dc4K-NH/DKTcNy2yO4iS/
